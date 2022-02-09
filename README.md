@@ -1,6 +1,6 @@
 # Solution
 
-- <b>Live on</b> https://focused-sammet-df51ae.netlify.app/
+- Live on https://focused-sammet-df51ae.netlify.app/
 - <b>What design/implementation decisions did you make and why? </b> <br/>
   We decide design/implementation decisions depends upon complaxity of project, this is a simple problem so I will implement through following strategy: <br/>
   <b> React Function Components </b>: To define the displayed view and bind it to the code that drives its behavior <br/>
@@ -16,7 +16,8 @@
   <b> Create NFT </b>: User can create nft on our platform, and user can see that in opensea also.<br/>
   <b> NFT Detail page </b>: User can see NFT detail on our platform.<br/>
   <b> Implement SSR </b>: For Optimization, SEO. <br/>
-  <b> Test cases </b>: Implement test cases, to unsure that our platform is bug free and helps us in future development also.
+  <b> Test cases </b>: Implement test cases, to unsure that our platform is bug free and helps us in future development also.<br/>
+  <b> Skeleton Loader </b>: For better UI.
   <br/>
 
 - <b>What would you need to do to make this project production ready? </b> <br/>
